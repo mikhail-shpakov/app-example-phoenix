@@ -4,7 +4,7 @@
 
 Пример приложения [Phoenix](https://www.phoenixframework.org/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо]()
+:tada: [Демо](https://timeweb-cloud-app-example-phoenix-b1cc.twc1.net)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
